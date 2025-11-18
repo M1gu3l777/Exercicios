@@ -1,5 +1,4 @@
 ﻿using System;
-using System.IO;
 
 class DataNascimento
 {
@@ -207,3 +206,4 @@ class Program
         }
     }
 }
+
