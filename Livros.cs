@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 
 struct Livro
 {
@@ -164,3 +162,4 @@ class Livros
         }
     }
 }
+
